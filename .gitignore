@@ -1,0 +1,35 @@
+# Environment
+.env
+.env.*
+*.local
+
+# Dependencies
+node_modules
+
+# Build output
+dist
+dist-ssr
+
+# Large media assets (provided separately via Google Drive)
+src/assets/*.mp4
+src/assets/*.mov
+src/assets/*.mp3
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
