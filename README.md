@@ -11,7 +11,7 @@
 [![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
-[Live Demo](#) · [Contact](mailto:gabriel.saintlouis99@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gabriel-saint-louis-68555b325) · [GitHub](https://github.com/MrMblock)
+[Live Demo](#) · [Contact](mailto:gabriel.saintlouis99@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gabriel-saint-louis-68555b325) · [GitHub](https://github.com/GabrielSaint-Louis)
 
 </div>
 
@@ -143,7 +143,7 @@ Download them from the shared drive and place them in the correct directories:
 ### Installation
 
 ```bash
-git clone https://github.com/MrMblock/portfolio.git
+git clone https://github.com/GabrielSaint-Louis/gabriel-saint-louis-portfolio.git
 cd portfolio
 npm install
 ```
@@ -195,7 +195,7 @@ Currently in work-study at **Axone Conseils** (payroll management software) and 
 
 | Platform | Link |
 |---|---|
-| GitHub | [github.com/MrMblock](https://github.com/MrMblock) |
+| GitHub | [github.com/GabrielSaint-Louis](https://github.com/GabrielSaint-Louis) |
 | LinkedIn | [gabriel-saint-louis-68555b325](https://www.linkedin.com/in/gabriel-saint-louis-68555b325) |
 | Email | gabriel.saintlouis99@gmail.com |
 
