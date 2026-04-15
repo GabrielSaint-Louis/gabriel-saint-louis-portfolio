@@ -249,7 +249,7 @@ function MenuScreen() {
   return (
     <div id="menu-screen">
       <P3Menu onNavigate={(page) => {
-        if (page === 'github') { window.open('https://github.com/MrMblock', '_blank'); return; }
+        if (page === 'github') { window.open('https://github.com/GabrielSaint-Louis', '_blank'); return; }
         navigate(`/${page}`);
       }} />
     </div>
