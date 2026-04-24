@@ -10,11 +10,6 @@ node_modules
 dist
 dist-ssr
 
-# Large media assets (provided separately via Google Drive)
-src/assets/*.mp4
-src/assets/*.mov
-src/assets/*.mp3
-
 # Editor
 .vscode/*
 !.vscode/extensions.json
