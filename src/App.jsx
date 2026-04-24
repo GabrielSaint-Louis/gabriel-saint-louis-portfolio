@@ -1,3 +1,4 @@
+/* Portfolio - Gabriel Saint-Louis */
 import { useEffect, useRef, useState, useCallback, lazy, Suspense } from 'react'
 import { Routes, Route, useLocation, useNavigate } from 'react-router-dom'
 import { AnimatePresence } from 'framer-motion'
